@@ -1,0 +1,5 @@
+2020-02-24 22:23:48 INFO  SimpleCompoundInterest:SimpleCompoundInterest:11 -enter the principle amount:
+2020-02-24 22:23:53 INFO  SimpleCompoundInterest:SimpleCompoundInterest:13 -enter the rate of interest:
+2020-02-24 22:23:55 INFO  SimpleCompoundInterest:SimpleCompoundInterest:15 -enter the time duration:
+2020-02-24 22:23:57 INFO  SimpleInterest:SimpleInterest:9 -simple interest is : 80.0
+2020-02-24 22:23:57 INFO  CompoundInterest:CompoundInterest:11 -compound interest is : 92.82
